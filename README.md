@@ -1,1 +1,3 @@
-https://www.google.by/url?url=https://www.liferay.com/downloads/liferay-projects/liferay-ide&rct=j&q=&esrc=s&sa=U&ei=Zj7HVKmSDerMyAO2tIDIDw&ved=0CBAQFjAA&usg=AFQjCNGkVNpGdOjKhEDCmmaVOjZoJvmFng
+Хватит зевать....
+и Вот ссылка обьясняющая что такое плагин лайфрей.
+http://www.liferaysavvy.com/2013/12/liferay-portal-development-introduction.html
