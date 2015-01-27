@@ -1,1 +1,1 @@
-http://sourceforge.net/projects/lportal/files/Liferay%20Portal/6.2.1%20GA2/
+http://www.opensourceforlife.com/2011/10/setup-use-maven-with-liferay-6.html
