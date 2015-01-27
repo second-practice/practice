@@ -1,3 +1,1 @@
-Хватит зевать....
-и Вот ссылка обьясняющая что такое плагин лайфрей.
-http://www.liferaysavvy.com/2013/12/liferay-portal-development-introduction.html
+сказать ему что мы домой идём? пох на этот мавен.
